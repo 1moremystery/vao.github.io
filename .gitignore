@@ -1,0 +1,7 @@
+# IDEs
+.idea/
+
+# js
+node_modules/
+/.nuxt/
+/.vscode/
