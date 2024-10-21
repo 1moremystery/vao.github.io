@@ -1,0 +1,22 @@
+{
+    "scripts": {
+        "build": "nuxt build",
+        "dev": "nuxt dev",
+        "generate": "nuxt generate",
+        "preview": "nuxt preview",
+        "postinstall": "nuxt prepare"
+    },
+    "dependencies": {
+        "@primevue/themes": "^4.1.1",
+        "primeicons": "^7.0.0",
+        "primevue": "^4.1.1",
+        "tailwindcss-primeui": "^0.3.4",
+        "vue": "^3.5.12"
+    },
+    "devDependencies": {
+        "@nuxt/devtools": "latest",
+        "@nuxtjs/tailwindcss": "latest",
+        "@primevue/nuxt-module": "^4.1.1",
+        "nuxt": "^3.13.2"
+    }
+}
